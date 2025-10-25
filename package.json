@@ -1,0 +1,29 @@
+{
+  "name": "hella",
+  "version": "1.5.0",
+  "description": "just LOCK those hoppers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindyBindy/npmt.git"
+  },
+  "keywords": [],
+  "author": "Nikitos",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WindyBindy/node/issues"
+  },
+  "homepage": "https://github.com/WindyBindy/npmt#readme",
+  "dependencies": {
+    "joi": "^18.0.1",
+    "nano-id": "^1.1.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
